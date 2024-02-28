@@ -1,0 +1,17 @@
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\bin\Debug\net7.0\SocialWebServices.deps.json
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\bin\Debug\net7.0\SocialWebServices.runtimeconfig.json
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\bin\Debug\net7.0\SocialWebServices.dll
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\bin\Debug\net7.0\SocialWebServices.pdb
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\obj\Debug\net7.0\SocialWebServices.csproj.AssemblyReference.cache
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\obj\Debug\net7.0\SocialWebServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\obj\Debug\net7.0\SocialWebServices.AssemblyInfoInputs.cache
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\obj\Debug\net7.0\SocialWebServices.AssemblyInfo.cs
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\obj\Debug\net7.0\SocialWebServices.csproj.CoreCompileInputs.cache
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\obj\Debug\net7.0\SocialWebServices.csproj.CopyComplete
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\obj\Debug\net7.0\SocialWebServices.dll
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\obj\Debug\net7.0\refint\SocialWebServices.dll
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\obj\Debug\net7.0\SocialWebServices.pdb
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\obj\Debug\net7.0\SocialWebServices.genruntimeconfig.cache
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\obj\Debug\net7.0\ref\SocialWebServices.dll
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\bin\Debug\net7.0\SocialWebModel.dll
+D:\DreamWEBAPI\SocialWeb\SocialWebServices\bin\Debug\net7.0\SocialWebModel.pdb

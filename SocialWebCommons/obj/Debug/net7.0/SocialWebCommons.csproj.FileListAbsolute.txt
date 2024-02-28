@@ -1,0 +1,14 @@
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\obj\Debug\net7.0\SocialWebCommons.csproj.AssemblyReference.cache
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\obj\Debug\net7.0\SocialWebCommons.GeneratedMSBuildEditorConfig.editorconfig
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\obj\Debug\net7.0\SocialWebCommons.AssemblyInfoInputs.cache
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\obj\Debug\net7.0\SocialWebCommons.AssemblyInfo.cs
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\obj\Debug\net7.0\SocialWebCommons.csproj.CoreCompileInputs.cache
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\bin\Debug\net7.0\SocialWebCommons.deps.json
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\bin\Debug\net7.0\SocialWebCommons.runtimeconfig.json
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\bin\Debug\net7.0\SocialWebCommons.dll
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\bin\Debug\net7.0\SocialWebCommons.pdb
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\obj\Debug\net7.0\SocialWebCommons.dll
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\obj\Debug\net7.0\refint\SocialWebCommons.dll
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\obj\Debug\net7.0\SocialWebCommons.pdb
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\obj\Debug\net7.0\SocialWebCommons.genruntimeconfig.cache
+D:\DreamWEBAPI\SocialWeb\SocialWebCommons\obj\Debug\net7.0\ref\SocialWebCommons.dll
